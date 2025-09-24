@@ -1,0 +1,13 @@
+.box-1 {
+    width: 500px;
+    padding: 0px;
+    background-color: #d9ff00;
+    margin: 20px auto;
+}
+
+.box-2 {
+    width: 400px;
+    padding: 0px;
+    background-color: aliceblue;
+    margin: 20px auto;
+}
